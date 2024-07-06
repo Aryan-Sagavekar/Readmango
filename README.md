@@ -1,3 +1,1 @@
-# bookmypark
-
-A new Flutter project.
+Application to read and save mangas. Made in flutter.
